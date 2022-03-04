@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://ekor-jumat-wage.github.io/tag-4/sitemap.xml
